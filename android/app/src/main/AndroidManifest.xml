@@ -10,7 +10,7 @@
         android:label="x1jobs"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAVbkQRFVVkzNtgNay_IY7o6YP7qujsL58"/>
+            android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
