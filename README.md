@@ -8,5 +8,5 @@ How to run:
 - Set up a mobile emulator
 - Run the application
 
-##About
+## About
 The project will be written in Flutter and Dart. 
